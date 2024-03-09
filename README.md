@@ -8,21 +8,22 @@ Welcome to my data analyst portfolio.This repository contains a collection of my
   ### Other
   Some of the important parts of data analysis are separately added in portfolio. Theses are:
   - Machine Learning Algorithms
-          * Decision Tree
-          * Random Forest
-          * Naive Bayes
-          * SVM
-          * Linear Regression
-          * K Nearest Neighbour 
+    * Decision Tree
+    * Random Forest
+    * Naive Bayes
+    * SVM
+    * Linear Regression
+    * K Nearest Neighbour
+    * Logistic Regression 
   - Statistical Analysis
-          * Statistical Analysis
-          * Statistical Analysis Drugs
-          * Statistical Analysis Social Media Ads
+  * Statistical Analysis
+  * Statistical Analysis Drugs
+  * Statistical Analysis Social Media Ads
   - Pre-Processing
-          * Project Salary_Data
-          * Project Social Media Ads
-          * Project Drugs-checkpoint
-          * Project Titanic
+  * Project Salary_Data
+  * Project Social Media Ads
+  * Project Drugs-checkpoint
+  * Project Titanic
 ## Skills Demonstrated
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
