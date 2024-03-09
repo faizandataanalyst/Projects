@@ -4,7 +4,12 @@ Welcome to my data analyst portfolio.This repository contains a collection of my
 ### 1. UCI Heart Disease:
 - **Description**: Data contains 16 features and about 900 values
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (e.g., Python, pandas, matplotlib, seaborn, sci-kit learn).
-- **Key Insights**: Every column gives different insights all the insights are given in the file. 
+- **Key Insights**: Every column gives different insights all the insights are given in the file.
+  ### Other
+  Some of the important parts of data analysis are separately added in portfolio. Theses are:
+  - Machine Learning Algorithms
+  - Statistical Analysis
+  - Pre-Processing  
 ## Skills Demonstrated
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
