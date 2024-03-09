@@ -16,14 +16,14 @@ Welcome to my data analyst portfolio.This repository contains a collection of my
     * K Nearest Neighbour
     * Logistic Regression 
   - Statistical Analysis
-  * Statistical Analysis
-  * Statistical Analysis Drugs
-  * Statistical Analysis Social Media Ads
+    * Statistical Analysis
+    * Statistical Analysis Drugs
+    * Statistical Analysis Social Media Ads
   - Pre-Processing
-  * Project Salary_Data
-  * Project Social Media Ads
-  * Project Drugs-checkpoint
-  * Project Titanic
+    * Project Salary_Data
+    * Project Social Media Ads
+    * Project Drugs-checkpoint
+    * Project Titanic
 ## Skills Demonstrated
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
