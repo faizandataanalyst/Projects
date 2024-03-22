@@ -5,6 +5,7 @@ Welcome to my data analyst portfolio.This repository contains a collection of my
 - **Description**: Data contains 16 features and about 900 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis and different technique is used to make a best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (e.g., Python, pandas, matplotlib, seaborn, sci-kit learn).
 - **Key Insights**: Every column gives different insights all the insights are given in the file.
+- File Name in Repository: ML Pipeline UCI Heart Disease
 
   ### Other
   Some of the important parts of data analysis are separately added in portfolio. Theses are:
