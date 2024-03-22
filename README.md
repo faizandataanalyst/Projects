@@ -37,7 +37,7 @@ Welcome to my data analyst portfolio.This repository contains a collection of my
 - Summary of Insights
 
 ## About Me
-Hello! I'm Muhammad Faizan, a passionate data science enthusiast with a keen interest in leveraging data-driven insights to solve real-world problems. Aspiring to carve a career path as a data analyst, I am deeply fascinated by the power of data to drive informed decision-making and uncover meaningful patterns. I have developed a strong foundation in data analysis, statistics, and programming.
+Salam! I'm Muhammad Faizan, a passionate data science enthusiast with a keen interest in leveraging data-driven insights to solve real-world problems. Aspiring to carve a career path as a data analyst, I am deeply fascinated by the power of data to drive informed decision-making and uncover meaningful patterns. I have developed a strong foundation in data analysis, statistics, and programming.
 Driven by curiosity and a desire to continuously learn and grow, I am constantly exploring new tools, techniques, and methodologies in data analysis. From data cleaning and preprocessing to exploratory data analysis (EDA) and visualization, I enjoy every aspect of the data analysis process.
 In my portfolio, you'll find a collection of projects where I've applied my skills to analyze datasets, derive actionable insights, and communicate findings effectively. Each project reflects my passion for uncovering stories hidden within data and my commitment to delivering high-quality analyses.
 I am currently seeking opportunities to further develop my skills and contribute to impactful projects in data analysis. If you're looking for a dedicated and enthusiastic data analyst, I'd love to connect and explore potential opportunities.
