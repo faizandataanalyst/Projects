@@ -39,6 +39,7 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - Statistical Analysis
 - Hypothesis Testing
 - Machine Learning (if applicable)
+- Feature Engineering
 - Summary of Insights
 
 ## About Me
