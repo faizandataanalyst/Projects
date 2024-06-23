@@ -64,6 +64,6 @@ I am currently seeking opportunities to further develop my skills and contribute
 Thank you for visiting my portfolio, and I look forward to connecting with you!
 
 ## Contact Information
-- Email: faizanfaisal.kps@gmail.com
-- LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
+- Email: faizan.faisal1020@gmail.com
+- LinkedIn:www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
 - GitHub Profile: faizandataanalyst 
