@@ -16,7 +16,7 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
 - **Key Insights**: Every column gives different insights all the insights are given in the file.
 - File Name in Repository: ML Pipeline Salary Dataset
-  ### 4. Social Media Ads:
+### 4. Social Media Ads:
 - **Description**: Data contains 5 features and about 400 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
 - **Key Insights**: Every column gives different insights all the insights are given in the file.
