@@ -2,32 +2,32 @@
 Welcome to my data analyst portfolio. This repository contains a collection of my data analysis projects showcasing my skills in data manipulation, visualization, and storytelling. Each project focuses on solving real-world problems and provides insights derived from data.
 ## Projects
 ### 1. UCI Heart Disease:
-- **Description**: Data contains 16 features and about 900 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
+- **Description**: Data contains 16 features and about 900 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
-- **Key Insights**: Every column gives different insights all the insights are given in the file.
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline UCI Heart Disease
 ### 2. Drugs Dataset:
-- **Description**: Data contains 6 features and about 200 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
+- **Description**: Data contains 6 features and about 200 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
-- **Key Insights**: Every column gives different insights all the insights are given in the file.
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline Drugs Dataset
 ### 3. Salary Dataset:
-- **Description**: Data contains 6 features and about 6700 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
+- **Description**: Data contains 6 features and about 6700 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
-- **Key Insights**: Every column gives different insights all the insights are given in the file.
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline Salary Dataset
 ### 4. Social Media Ads:
-- **Description**: Data contains 5 features and about 400 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
+- **Description**: Data contains 5 features and about 400 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
-- **Key Insights**: Every column gives different insights all the insights are given in the file.
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline Social Media Dataset
 ### 5. IRIS Dataset:
-- **Description**: Data contains 5 features and about 150 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques used to make the best Machine Learning Model.
+- **Description**: Data contains 5 features and about 150 values. It is a complete Machine Learning Pipeline with a detailed Exploratory Data Analysis(EDA), Statistical Analysis, and different techniques to make the best Machine Learning Model.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
-- **Key Insights**: Every column gives different insights all the insights are given in the file.
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline IRIS Dataset
   ### Other
-  Some of the important parts of data analysis are separately added to the portfolio. These are:
+  Some important parts of data analysis are separately added to the portfolio. These are:
   - Machine Learning Algorithms
     * Decision Tree
     * Random Forest
@@ -39,7 +39,7 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
   - Statistical Analysis
     * Statistical Analysis
     * Statistical Analysis Drugs
-    * Statistical Analysis Social Media Ads
+    * Statistical Analysis of Social Media Ads
   - Pre-Processing
     * Project Salary_Data
     * Project Social Media Ads
@@ -65,5 +65,6 @@ Thank you for visiting my portfolio, and I look forward to connecting with you!
 
 ## Contact Information
 - Email: faizan.faisal1020@gmail.com
-- LinkedIn:www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
-- GitHub Profile: faizandataanalyst 
+- LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
+- GitHub Profile: faizandataanalyst
+- Tableau Profile: Muhammad Faizan Faisal 
