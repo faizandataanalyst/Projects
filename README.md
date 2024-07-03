@@ -26,6 +26,11 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy matplotlib, seaborn, sci-kit learn, scipy).
 - **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline IRIS Dataset
+### 6. Stock Data Analysis Google:
+- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict vaueable and costly findings.
+- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy, matplotlib, statsmodels).
+- **Key Insights**: Every column gives different insights all the insights are provided in the file.
+- File Name in Repository: ML Pipeline IRIS Dataset
   ### Other
   Some important parts of data analysis are separately added to the portfolio. These are:
   - Machine Learning Algorithms
