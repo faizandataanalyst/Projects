@@ -30,6 +30,10 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict vaueable and costly findings.
 - **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy, matplotlib, statsmodels).
 - File Name in Repository: Google Stock Data Analysis
+### 7. Stock Data Analysis APPLE: 
+- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict vaueable and costly findings.
+- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy, matplotlib, statsmodels).
+- File Name in Repository: Stock Data Analysis APPLE
   ### Other
   Some important parts of data analysis are separately added to the portfolio. These are:
   - Machine Learning Algorithms
