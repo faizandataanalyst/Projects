@@ -29,23 +29,23 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - File Name in Repository: ML Pipeline IRIS Dataset
 ### 6. Stock Data Analysis Google:
 - **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valueable and costly findings.
-- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy, matplotlib, statsmodels).
+- **Tools/Libraries Used**: List of tools and libraries used for Time Data Analysis (Python, pandas, numpy, matplotlib, statsmodels).
 - File Name in Repository: Google Stock Data Analysis
 ### 7. Stock Data Analysis APPLE: 
 - **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valueable and costly findings.
-- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, numpy, matplotlib, statsmodels).
+- **Tools/Libraries Used**: List of tools and libraries used for Time Data Analysis (Python, pandas, numpy, matplotlib, statsmodels).
 - File Name in Repository: Stock Data Analysis APPLE
 ### 8. Web Scrapping IRIS Data: 
 - **Description**: Extraction of data from websites.
-- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, BeautifulSoup, Requests).
+- **Tools/Libraries Used**: List of tools and libraries used for Web Scraping (Python, pandas, BeautifulSoup, Requests).
 - File Name in Repository: Scrap IRIS Data
 ### 9. Web Scrapping Stock Data Collection: 
 - **Description**: Extraction of data from websites.
-- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, BeautifulSoup, Requests).
+- **Tools/Libraries Used**: List of tools and libraries used for Web Scraping (Python, pandas, BeautifulSoup, Requests).
 - File Name in Repository: Scrap Stock Data Collection
 ### 10. Web Scrapping World Population: 
 - **Description**: Extraction of data from websites.
-- **Tools/Libraries Used**: List of tools and libraries used for data analysis (Python, pandas, BeautifulSoup, Requests).
+- **Tools/Libraries Used**: List of tools and libraries used for Web Scraping (Python, pandas, BeautifulSoup, Requests).
 - File Name in Repository: Scrap World Population
 
   ### Other
