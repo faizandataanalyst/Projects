@@ -28,11 +28,11 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - **Key Insights**: Every column gives different insights all the insights are provided in the file.
 - File Name in Repository: ML Pipeline IRIS Dataset
 ### 6. Stock Data Analysis Google:
-- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valueable and costly findings.
+- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valuable and costly findings.
 - **Tools/Libraries Used**: List of tools and libraries used for Time Data Analysis (Python, pandas, numpy, matplotlib, statsmodels).
 - File Name in Repository: Google Stock Data Analysis
 ### 7. Stock Data Analysis APPLE: 
-- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valueable and costly findings.
+- **Description**: It is a Time Series dataset, that contains 687 entries total of 6 features, data is from 2021-10-06 to 2024-07-01. It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), SARIMAX, and different techniques to predict valuable and costly findings.
 - **Tools/Libraries Used**: List of tools and libraries used for Time Data Analysis (Python, pandas, numpy, matplotlib, statsmodels).
 - File Name in Repository: Stock Data Analysis APPLE
 ### 8. Web Scrapping IRIS Data: 
@@ -47,6 +47,10 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - **Description**: Extraction of data from websites.
 - **Tools/Libraries Used**: List of tools and libraries used for Web Scraping (Python, pandas, BeautifulSoup, Requests).
 - File Name in Repository: Scrap World Population
+### 11. Daily Climate Forecasting: 
+- **Description**: It is a Time Series dataset, that contains 1462 entries and 4 columns, from 2013-01-01 to 2017-01-01 It is a complete Forecasting with a detailed Exploratory Data Analysis(EDA), Prophet Model, and different techniques to predict climate.
+- **Tools/Libraries Used**: List of tools and libraries used for Time Data Analysis (Python, pandas, numpy, matplotlib, statsmodels, Prophet).
+- File Name in Repository: Daily Climate Forecasting
 
   ### Other
   Some important parts of data analysis are separately added to the portfolio. These are:
@@ -71,7 +75,6 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
     * Stock Data Analysis Apple
     * Stock Data Analysis Google
   - Web Scrapings
-    * Scrap IRIS Data
     * Scrap Stock Data Collection
     * Scrap World Population
 
@@ -84,7 +87,7 @@ Welcome to my data analyst portfolio. This repository contains a collection of m
 - Hypothesis Testing
 - Machine Learning (if applicable)
 - Feature Engineering
-- Time Series Analysis 
+- Time Series Analysis (SARIMAX and Prophet)
 - Summary of Insights
 
 ## About Me
