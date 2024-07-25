@@ -103,4 +103,4 @@ Thank you for visiting my portfolio, and I look forward to connecting with you!
 - LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
 - GitHub Profile: faizandataanalyst
 - Tableau Profile: Muhammad Faizan Faisal
-          * Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
+  * Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
