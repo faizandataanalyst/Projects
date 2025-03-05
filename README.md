@@ -1,4 +1,4 @@
-#Data Science, Machine Learning & Deep Learning Portfolio
+# Data Science, Machine Learning & Deep Learning Portfolio
 
 Welcome
 
@@ -8,7 +8,7 @@ This repository showcases my projects in Data Science, Machine Learning, Deep Le
 
 ### Machine Learning Pipelines
 
-Heart Disease Prediction
+#### Heart Disease Prediction
 
 Description: End-to-end ML pipeline with EDA, statistical analysis, and model building for heart disease prediction.
 
@@ -16,7 +16,7 @@ Tools/Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 File Name: ML Pipeline UCI Heart Disease.ipynb
 
-Drugs Dataset Analysis
+#### Drugs Dataset Analysis
 
 Description: Comprehensive analysis and ML pipeline for drug classification based on patient features.
 
@@ -24,7 +24,7 @@ Tools/Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 File Name: ML Pipeline Drug Dataset.ipynb
 
-Salary Prediction
+#### Salary Prediction
 
 Description: Predicting salaries based on features using ML models with EDA and feature engineering.
 
@@ -32,7 +32,7 @@ Tools/Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 File Name: ML Pipeline Salary Dataset.ipynb
 
-Social Media Ad Analysis
+#### Social Media Ad Analysis
 
 Description: Understanding user behavior and predicting ad clicks using classification models.
 
@@ -40,7 +40,7 @@ Tools/Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy
 
 File Name: ML Pipeline Social Media Dataset.ipynb
 
-IRIS Flower Classification
+#### IRIS Flower Classification
 
 Description: Classical ML pipeline for flower classification using different ML algorithms.
 
@@ -50,7 +50,7 @@ File Name: ML Pipeline IRIS Dataset.ipynb
 
 ### Deep Learning Projects
 
-CIFAR-10 Image Classification (CNN)
+#### CIFAR-10 Image Classification (CNN)
 
 Description: Implemented a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset.
 
@@ -58,7 +58,7 @@ Tools/Libraries: Python, TensorFlow, Keras, NumPy, Matplotlib.
 
 File Name: CIFAR-10 Deep Learning CNN.ipynb
 
-Fashion MNIST Classification (ANN)
+#### Fashion MNIST Classification (ANN)
 
 Description: Built an Artificial Neural Network (ANN) for recognizing fashion apparel images.
 
@@ -68,7 +68,7 @@ File Name: Fashion mnist Deep Learning ANN.ipynb
 
 ### Time Series Forecasting
 
-Stock Price Forecasting (Google & Apple)
+#### Stock Price Forecasting (Google & Apple)
 
 Description: Time Series Analysis using SARIMAX models for stock price prediction.
 
@@ -76,7 +76,7 @@ Tools/Libraries: Python, Pandas, NumPy, Matplotlib, Statsmodels.
 
 File Names: Stock Data Analysis Google.ipynb, Stock Data Analysis APPLE.ipynb
 
-Daily Climate Forecasting
+#### Daily Climate Forecasting
 
 Description: Weather prediction using Prophet Model and Time Series Analysis.
 
@@ -86,7 +86,7 @@ File Name: Daily Climate Forecasting.ipynb
 
 ### Web Scraping Projects
 
-IRIS Dataset Web Scraping
+#### IRIS Dataset Web Scraping
 
 Description: Extracted flower dataset from various web sources.
 
@@ -94,7 +94,7 @@ Tools/Libraries: Python, BeautifulSoup, Requests, Pandas.
 
 File Name: Scrap IRIS Data.ipynb
 
-Stock Data Web Scraping
+#### Stock Data Web Scraping
 
 Description: Collected stock price data for analysis and forecasting.
 
@@ -102,7 +102,7 @@ Tools/Libraries: Python, BeautifulSoup, Requests, Pandas.
 
 File Name: Scrap Stock Data Collection.ipynb
 
-World Population Scraping
+#### World Population Scraping
 
 Description: Extracted world population data for demographic analysis.
 
