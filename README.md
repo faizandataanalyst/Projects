@@ -128,7 +128,7 @@ Web Scraping: BeautifulSoup, Requests.
 
 ## About Me
 
-Salam! I'm Muhammad Faizan, a passionate Data Scientist and AI enthusiast dedicated to extracting insights from data. I specialize in Machine Learning, Deep Learning, and Data Analysis and aim to build impactful solutions that drive data-driven decision-making.
+Salam! I'm Muhammad Faizan, a Data Science and AI enthusiast passionate about transforming data into meaningful insights. My expertise lies in Machine Learning, Deep Learning, and Data Analysis, where I focus on building practical solutions for real-world problems. Through hands-on projects, I continue to refine my skills in predictive modeling, data-driven decision-making, and AI.
 
 ## Contact Information
 Email: faizan.faisal1020@gmail.com
