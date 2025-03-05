@@ -4,7 +4,7 @@ Welcome
 
 This repository showcases my projects in Data Science, Machine Learning, Deep Learning, and Time Series Analysis. It highlights my skills in data manipulation, visualization, model building, and forecasting to solve real-world problems.
 
-## Projects
+## __Projects__
 
 ### Machine Learning Pipelines
 
