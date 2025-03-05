@@ -131,8 +131,9 @@ Web Scraping: BeautifulSoup, Requests.
 Salam! I'm Muhammad Faizan, a Data Science and AI enthusiast passionate about transforming data into meaningful insights. My expertise lies in Machine Learning, Deep Learning, and Data Analysis, where I focus on building practical solutions for real-world problems. Through hands-on projects, I continue to refine my skills in predictive modeling, data-driven decision-making, and AI.
 
 ## Contact Information
-Email: faizan.faisal1020@gmail.com
-LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
-GitHub Profile: faizandataanalyst
-Tableau Profile: Muhammad Faizan Faisal
-Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
+* Email: faizan.faisal1020@gmail.com
+* LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
+* GitHub Profile: faizandataanalyst
+* Tableau Profile: Muhammad Faizan Faisal
+* Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
+* Kaggle Profile: Muhammad Faizan Faisal
