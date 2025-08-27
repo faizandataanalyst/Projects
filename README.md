@@ -4,7 +4,7 @@ Welcome to my portfolio repository! 🚀
 This repository showcases my projects in Data Science, Machine Learning, Deep Learning, Time Series Analysis, and Web Scraping. Each project reflects my skills in data analysis, visualization, model building, and predictive analytics applied to real-world problems.
 
 # Projects
-## Machine Learning Pipelines
+### Machine Learning Pipelines
 - Heart Disease Prediction
 End-to-end ML pipeline with EDA, statistical analysis, and predictive modeling.
 - Drug Dataset Classification
@@ -16,11 +16,11 @@ Classification models for predicting ad clicks and user behavior.
 - Iris Flower Classification
 Classical ML pipeline for flower recognition.
 
-##  Ensemble Learning Projects
+###  Ensemble Learning Projects
 - Drug Dataset – Ensemble Learning
 Applied Random Forest, Bagging, and Boosting (XGBoost/LightGBM) to improve classification performance on the drug dataset.
 
-## Deep Learning Projects
+### Deep Learning Projects
 - CIFAR-10 Image Classification (CNN)
 Convolutional Neural Network for image recognition.
 - Fashion MNIST Classification (ANN)
@@ -30,7 +30,7 @@ ANN model to classify ad engagement.
 - Salary Dataset (Deep Learning)
 ANN for salary prediction.
 
-## Time Series Forecasting
+### Time Series Forecasting
 - Stock Price Forecasting
 SARIMAX models for Google, Apple, Meta, and NVIDIA stock prediction.
 - Daily Climate Forecasting
@@ -38,7 +38,7 @@ Weather forecasting using Prophet and time series models.
 - Walmart Sales Forecasting
 Demand prediction using time series analysis.
 
-## Web Scraping Projects
+### Web Scraping Projects
 - Iris Dataset Web Scraping
 Extracted flower dataset from web sources.
 - Stock Data Collection
@@ -46,7 +46,7 @@ Scraped stock prices for financial analysis.
 - World Population Scraping
 Demographic data collection for analysis.
 
-## Skills & Tools
+### Skills & Tools
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Statsmodels)
 - Machine Learning: Decision Trees, Random Forest, SVM, KNN, Logistic & Linear Regression, Naive Bayes, Ensemble Learning
 - Deep Learning: ANN, CNN, TensorFlow, Keras
