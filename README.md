@@ -48,7 +48,7 @@ Demographic data collection for analysis.
 
 ## Skills & Tools
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Statsmodels)
-- Machine Learning: Decision Trees, Random Forest, SVM, KNN, Logistic & Linear Regression, Naive Bayes
+- Machine Learning: Decision Trees, Random Forest, SVM, KNN, Logistic & Linear Regression, Naive Bayes, Ensemble Learning
 - Deep Learning: ANN, CNN, TensorFlow, Keras
 - Time Series: SARIMAX, Prophet
 - Data Analysis: EDA, Feature Engineering, Hypothesis Testing, Probability Distributions
