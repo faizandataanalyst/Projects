@@ -67,4 +67,4 @@ Salam! I'm Muhammad Faizan, a Data Science and AI enthusiast passionate about tr
 * Tableau Link:https://public.tableau.com/app/profile/faizan.faisal/vizzes
 * Kaggle Profile: Muhammad Faizan Faisal
 
-This portfolio is continuously updated with new projects as I grow in AI, ML, and Data Science.
+### This portfolio is continuously updated with new projects as I grow in AI, ML, and Data Science.
