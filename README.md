@@ -13,6 +13,7 @@ Welcome to my portfolio repository! This collection showcases my diverse project
 
 ### Ensemble Learning Projects
 **Drug Dataset** – Ensemble Learning: Improved classification performance using Random Forest, Bagging, and Boosting techniques (XGBoost/LightGBM).
+
 ## Deep Learning Projects
 **CIFAR-10 Image Classification (CNN):** Convolutional Neural Network for image classification.
 **Fashion MNIST Classification (ANN):** Artificial Neural Network for recognizing apparel images.
@@ -24,6 +25,7 @@ Welcome to my portfolio repository! This collection showcases my diverse project
 **Stock Price Forecasting:** Applied SARIMAX models to forecast stock prices for companies like Google, Apple, Meta, and NVIDIA.
 **Daily Climate Forecasting:** Weather forecasting using Prophet and time series analysis.
 **Walmart Sales Forecasting:** Time series analysis to predict demand and sales for Walmart.
+
 ### Web Scraping Projects
 **Iris Dataset Web Scraping:** Extracted flower dataset from web sources.
 **Stock Data Collection:** Scraped stock prices for financial analysis.
@@ -43,10 +45,10 @@ Visualization: Matplotlib, Seaborn, Tableau
 Salam! I'm Muhammad Faizan, a passionate Data Science and AI enthusiast, focused on transforming data into actionable insights. My expertise spans Machine Learning, Deep Learning, and Data Analysis, where I specialize in creating practical solutions for real-world problems. Through my hands-on projects, I continue to sharpen my skills in predictive modeling, data-driven decision-making, and AI.
 
 ## Contact Information
-Email: faizan.faisal1020@gmail.com
-LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
-GitHub: faizandataanalyst
-Tableau: Muhammad Faizan Faisal
-Kaggle: Muhammad Faizan Faisal
+* Email: faizan.faisal1020@gmail.com
+* LinkedIn: www.linkedin.com/in/muhammad-faizan-faisal-30b73325b
+* GitHub: faizandataanalyst
+* Tableau: Muhammad Faizan Faisal
+* Kaggle: Muhammad Faizan Faisal
 
 ## This portfolio is continually updated with new projects as I grow in AI, ML, and Data Science. Thank you for visiting!
