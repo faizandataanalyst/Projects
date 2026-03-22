@@ -16,7 +16,7 @@ Welcome to my portfolio repository! This collection showcases my diverse project
 **Drug Dataset** – Ensemble Learning: Improved classification performance using Random Forest, Bagging, and Boosting techniques (XGBoost/LightGBM).
 
 ### Deep Learning Projects
-**CIFAR-10 Image Classification (CNN):** Convolutional Neural Network for image classification.The model consists of 1,438,282 parameters, amounting to 5.49 MB, all of which are trainable."
+**CIFAR-10 Image Classification (CNN):** Convolutional Neural Network for image classification.The model consists of 1,438,282 parameters, amounting to 5.49 MB, all of which are trainable.
 **Fashion MNIST Classification (ANN):** Artificial Neural Network for recognizing apparel images. The model has a total of 520,880 parameters, all of which are trainable.
 **Social Media Ads (Deep Learning):** ANN model predicting ad engagement based on user data. This model has 177,153 trainable parameters, which means all parameters can be adjusted during training to improve the model's performance.
 **Salary Dataset (Deep Learning):** Deep Learning model to predict salary based on various features. The model contains 177,665 trainable parameters.
