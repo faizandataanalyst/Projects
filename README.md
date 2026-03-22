@@ -3,6 +3,7 @@
 Welcome to my portfolio repository! This collection showcases my diverse projects in Data Science, Machine Learning, Deep Learning, Time Series Analysis, and Web Scraping. Each project highlights my skills in data analysis, visualization, model building, and predictive analytics, applied to real-world problems.
 
 ## Projects Overview
+
 ### Machine Learning Pipelines
 **Heart Disease Prediction:** End-to-end ML pipeline with Exploratory Data Analysis (EDA), statistical analysis, and predictive modeling.
 **Drug Dataset Classification:** A classification pipeline for predicting drug types based on patient features using multiple algorithms.
