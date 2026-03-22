@@ -15,7 +15,7 @@ Welcome to my portfolio repository! This collection showcases my diverse project
 ### Ensemble Learning Projects
 **Drug Dataset** – Ensemble Learning: Improved classification performance using Random Forest, Bagging, and Boosting techniques (XGBoost/LightGBM).
 
-## Deep Learning Projects
+### Deep Learning Projects
 **CIFAR-10 Image Classification (CNN):** Convolutional Neural Network for image classification.
 **Fashion MNIST Classification (ANN):** Artificial Neural Network for recognizing apparel images.
 **Social Media Ads (Deep Learning):** ANN model predicting ad engagement based on user data.
