@@ -4,34 +4,34 @@ Welcome to my portfolio repository! This collection showcases my diverse project
 
 ## Projects Overview
 
-### Machine Learning Pipelines
-**Heart Disease Prediction:** End-to-end ML pipeline with Exploratory Data Analysis (EDA), statistical analysis, and predictive modeling.
-**Drug Dataset Classification:** A classification pipeline for predicting drug types based on patient features using multiple algorithms.
-**Salary Prediction:** Regression models to predict salaries, incorporating feature engineering and evaluation metrics.
-**Social Media Ad Analysis:** Classification models predicting ad clicks and user engagement behavior.
-**Iris Flower Classification:** Classical ML pipeline for flower recognition using decision trees and other algorithms.
-**Bank Churn Prediction:** ML-based classification model to predict customer churn using various features like credit score, age, balance, and more.
+### **Machine Learning Pipelines**
+* **Heart Disease Prediction**: End-to-end ML pipeline with **Exploratory Data Analysis (EDA)**, statistical analysis, and predictive modeling.
+* **Drug Dataset Classification**: Classification pipeline for predicting drug types based on patient features using multiple algorithms.
+* **Salary Prediction**: Regression models to predict salaries, incorporating feature engineering and evaluation metrics.
+* **Social Media Ad Analysis**: Classification models predicting ad clicks and user engagement behavior.
+* **Iris Flower Classification**: Classical ML pipeline for flower recognition using decision trees and other algorithms.
+* **Bank Churn Prediction**: ML-based classification model to predict customer churn using features like credit score, age, balance, and more.
 
-### Ensemble Learning Projects
-**Drug Dataset** – Ensemble Learning: Improved classification performance using Random Forest, Bagging, and Boosting techniques (XGBoost/LightGBM).
+### **Ensemble Learning Projects**
+* **Drug Dataset – Ensemble Learning**: Improved classification performance using **Random Forest**, **Bagging**, and **Boosting** techniques (XGBoost/LightGBM).
 
-### Deep Learning Projects
-**CIFAR-10 Image Classification (CNN):** Convolutional Neural Network for image classification.
-**Fashion MNIST Classification (ANN):** Artificial Neural Network for recognizing apparel images. 
-**Social Media Ads (Deep Learning):** ANN model predicting ad engagement based on user data. 
-**Salary Dataset (Deep Learning):** Deep Learning model to predict salary based on various features. 
-**Bank Churn Prediction (Deep Learning):** Deep Learning-based model to predict customer churn using a Neural Network approach with features like age, balance, credit score, etc. 
+### **Deep Learning Projects**
+* **CIFAR-10 Image Classification (CNN)**: Convolutional Neural Network for image classification.
+* **Fashion MNIST Classification (ANN)**: Artificial Neural Network for recognizing apparel images.
+* **Social Media Ads (Deep Learning)**: ANN model predicting ad engagement based on user data.
+* **Salary Dataset (Deep Learning)**: Deep Learning model to predict salary based on various features.
+* **Bank Churn Prediction (Deep Learning)**: Deep Learning-based model to predict customer churn using a Neural Network approach with features like age, balance, credit score, etc.
 
-### Time Series Forecasting
-**Stock Price Forecasting:** Applied SARIMAX models to forecast stock prices for companies like Google, Apple, Meta, and NVIDIA.
-**Daily Climate Forecasting:** Weather forecasting using Prophet and time series analysis.
-**Walmart Sales Forecasting:** Time series analysis to predict demand and sales for Walmart.
+### **Time Series Forecasting**
+* **Stock Price Forecasting**: Applied **SARIMAX** models to forecast stock prices for companies like **Google**, **Apple**, **Meta**, and **NVIDIA**.
+* **Daily Climate Forecasting**: Weather forecasting using **Prophet** and time series analysis.
+* **Walmart Sales Forecasting**: Time series analysis to predict demand and sales for Walmart.
 
-### Web Scraping Projects
-**Iris Dataset Web Scraping:** Extracted flower dataset from web sources.
-**Stock Data Collection:** Scraped stock prices for financial analysis.
-**World Population Scraping:** Collected demographic data from web sources for analysis.
-
+### **Web Scraping Projects**
+* **Iris Dataset Web Scraping**: Extracted flower dataset from web sources.
+* **Stock Data Collection**: Scraped stock prices for financial analysis.
+* **World Population Scraping**: Collected demographic data from web sources for analysis.
+  
 ## Skills & Tools
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Statsmodels)
 Machine Learning: Decision Trees, Random Forest, SVM, KNN, Logistic & Linear Regression, Naive Bayes, Ensemble Learning
